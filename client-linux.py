@@ -7,7 +7,7 @@
 # 说明: 默认情况下修改server和user就可以了。
 
 SERVER = "host.serverstatus.liaozhebin.top"
-USER = "s08"
+USER = "host08"
 
 
 PORT = 35601
